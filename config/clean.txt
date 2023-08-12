@@ -1,0 +1,10 @@
+sudo su
+ls /var/cache/apt/archives
+sudo du -sh /var/cache/apt/archives
+sudo apt-get clean
+ ls /var/cache/apt/archives
+
+
+
+sudo -i
+sync; echo 1 > /proc/sys/vm/drop_caches 

@@ -1,0 +1,10 @@
+emoji
+pyperclip
+pickle4
+alive_progress
+pynput
+numpy
+pandas
+selenium
+webdriver_manager
+pyautogui
